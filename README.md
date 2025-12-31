@@ -1,3 +1,6 @@
 # Bus-reservation-System
-college project 
+Team,
+    Arjun SV
+    Ajay A
+AAT project 
 
